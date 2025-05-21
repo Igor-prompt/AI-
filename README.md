@@ -1,6 +1,7 @@
 # Проект: "ИИ-ассистент для компании по установке окон"
 ссылка на проект https://t.me/nahodokna_bot
-![Скриншот 1] https://github.com/Igor-prompt/AI-/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%A2%D0%93.gif?raw=true
+
+![Скриншот 1](https://github.com/Igor-prompt/AI-/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%A2%D0%93.gif?raw=true)
 
 ## Описание проекта
 
